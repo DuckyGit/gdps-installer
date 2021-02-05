@@ -4,8 +4,8 @@ $settings = array(
 	'videoId'	=> '',
 	'logoUrl'	=> 'https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG',
 	'timeout'	=> array(
-		'start' => 10,
-		'redirection' => 10
+		'start' => 5,
+		'redirection' => 5
 	),
 	'redirect'	=> TRUE,
 );
